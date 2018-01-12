@@ -23,18 +23,15 @@ redcarpet:
       short_name : hopeverse
 
 navigations:
-  - title: Archive
+  - title: 文章
     class: fa fa-tags
     href: /archive/
-  - title: Categories
+  - title: 分类
     class: fa fa-user
     href: /categories/
-  - title: Tags
-    class: fa fa-film
-    href: /tags/
-  - title: About
+  - title: 关于
     class: fa fa-list-ul
     href: /about/
-  - title: Rss
+  - title: 订阅
     class: fa fa-rss
     href: /atom.xml
